@@ -1,11 +1,11 @@
 package main
 
-import(
+import (
+	"bufio"
 	"fmt"
 	"os"
-	"bufio"
-	"strings"
 	"strconv"
+	"strings"
 )
 
 func main(){
